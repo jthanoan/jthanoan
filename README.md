@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jthanoan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in penguins
+- 🌱 I’m currently learning about penguins
+- 💞️ I’m looking to collaborate on penguins
 - 📫 How to reach me: with long arms
 
 <!---
